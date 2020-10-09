@@ -1,0 +1,13 @@
+*.notes
+*.zip
+*.tar
+*.gz
+*.png
+*.jpg
+*.webp
+*.json
+*.yml
+*.yaml
+*.swp
+*cache*
+.*

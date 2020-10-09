@@ -1,0 +1,10 @@
+Pillow
+aiohttp
+azure-storage-blob
+matplotlib
+numpy
+opencv-python
+pandas
+pyyaml
+requests
+scikit-image
